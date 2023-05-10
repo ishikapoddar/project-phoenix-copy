@@ -81,7 +81,7 @@ const index = () => {
         {
             name: 'Priyansh Agarwal',
             link: 'https://www.youtube.com/@PriyanshAgarwal',
-            image_address: 'https://yt3.googleusercontent.com/piIn5ZHTD7ytOym1FFSGBrZdfnUD1OHwP4AbjDpyQWAWj4YRgur6vUJn2Qa3EVc2pHcQVlQrVQ=s176-c-k-c0x00ffffff-no-rj',
+            image_address: 'https://yt3.googleusercontent.com/fSej0H2ok--_bj9NiNPw53QSJwWnsUBVJ0UhvR5h-OGaHICJg6Y7j0wUwWyTFDbHUODUJfci=s176-c-k-c0x00ffffff-no-rj',
             subcount: '45k',
             views: '1.9M',
             videocount: '144'
