@@ -89,10 +89,7 @@ const index = () => {
           </div>
         </div>
       ))}
-      <Link href='/contact' className="hover:box-shadow m-2 border-2 p-4 rounded-md backdrop-blur-sm flex flex-col justify-around items-center lg:h-[25vw] xl:h-[25vw]" title={"Add More"}>
-        <TiPlus className='h-auto w-28 md:w-20 sm:w-16 border-2 border-main rounded-xl' />
-        <p classname=''> Add More</p>
-      </Link>
+     
     </div>
   )
 }
